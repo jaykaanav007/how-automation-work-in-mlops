@@ -44,7 +44,7 @@ In job1 as soon as the developer commits the code then the job1 is triggered .
 ![image](https://user-images.githubusercontent.com/61894395/83334895-35060500-a2c7-11ea-92bf-ac4812191750.png)
 My GitHub Link
 
-https://github.com/rintucmathew/pythonkeras.git
+https://github.com/rohan1234/how-automation-work-in-mlops
 
 the above mentioned is my github repository url where you can find the all the code that i have used in my task
 
